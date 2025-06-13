@@ -493,7 +493,7 @@ export default function InspectionWorkflow() {
                       <Alert className="border-green-200 bg-green-50">
                         <CheckCircle className="w-4 h-4 text-green-600" />
                         <AlertDescription className="text-green-800">
-                          QR scanned successfully! You're in: <strong>{inspection.location}</strong>
+                          QR scanned successfully! You&lsquo;re in: <strong>{inspection.location}</strong>
                         </AlertDescription>
                       </Alert>
                       <Button 
