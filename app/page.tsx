@@ -510,7 +510,7 @@ export default function InspectionWorkflow() {
                   <div className="border-t pt-4">
                     <details className="group">
                       <summary className="flex items-center justify-between cursor-pointer text-sm text-gray-600 hover:text-gray-900">
-                        <span>Can't scan QR code? Manual override</span>
+                        <span>Can&lsquo;t scan QR code? Manual override</span>
                         <ArrowRight className="w-4 h-4 group-open:rotate-90 transition-transform" />
                       </summary>
                       <div className="mt-4 space-y-3 p-4 bg-gray-50 rounded-lg">
